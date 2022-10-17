@@ -26,5 +26,5 @@ for page in range(1,5):
             continue
 
         data = [column.get_text().strip() for column in columns]    # strip() : 불필요한 공백 제거
-        # print(data)
+        
         writer.writerow(data)

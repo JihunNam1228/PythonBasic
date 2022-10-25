@@ -1,6 +1,10 @@
 import pyautogui
 import time
 import sys
+
+# # 이미지를 찾아서 수행하는 것보다 단축키가 정확도면에서 월등하다
+
+
 # file_menu = pyautogui.locateOnScreen("file_menu.png")
 # print(file_menu)
 # pyautogui.click(file_menu)
